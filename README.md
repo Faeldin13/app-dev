@@ -21,7 +21,7 @@ My first repository
 ## *Plot Summary*
 Hodaka Morishima escapes his rural life and arrives in Tokyo, where he meets Hina Amano, a girl who can bring sunshine with her prayers. As Tokyo faces relentless rain, the two form a bond and begin offering weather-changing services—until they discover the cost of Hina’s powers.
 
-## 🧑‍🤝‍🧑 Characters
+## Characters
 
 | Character          | Description                                                                 |
 |--------------------|------------------------------------------------------------------------------|
